@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoMVC", "CursoMVC\CursoMVC.csproj", "{EAD87A5B-DBD6-4BCF-A095-04BEE6EDEED1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoAPI", "CursoAPI\CursoAPI.csproj", "{2000A59E-9277-43AC-9FD6-90B405569373}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoTest", "CursoTest\CursoTest.csproj", "{0A9D0DE2-54CB-4D99-A6CF-9A59A3EB8DA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAD87A5B-DBD6-4BCF-A095-04BEE6EDEED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAD87A5B-DBD6-4BCF-A095-04BEE6EDEED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAD87A5B-DBD6-4BCF-A095-04BEE6EDEED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAD87A5B-DBD6-4BCF-A095-04BEE6EDEED1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2000A59E-9277-43AC-9FD6-90B405569373}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2000A59E-9277-43AC-9FD6-90B405569373}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2000A59E-9277-43AC-9FD6-90B405569373}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2000A59E-9277-43AC-9FD6-90B405569373}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A9D0DE2-54CB-4D99-A6CF-9A59A3EB8DA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A9D0DE2-54CB-4D99-A6CF-9A59A3EB8DA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A9D0DE2-54CB-4D99-A6CF-9A59A3EB8DA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A9D0DE2-54CB-4D99-A6CF-9A59A3EB8DA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {576F3F14-0DE9-4503-9F2A-2455F2A672C2}
+	EndGlobalSection
+EndGlobal
